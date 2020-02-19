@@ -11,10 +11,7 @@
                     Else
                         Console.Write("$" + vbTab)
                     End If
-                Else
-                    Console.Write("$" + vbTab)
-                End If
-
+            
             Next
             Console.WriteLine()
         Next
